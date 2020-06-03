@@ -1,0 +1,16 @@
+/* default styling */
+
+body {
+    margin: 0;
+    padding: 0
+}
+
+
+:root {
+    --header-color: var(purple);
+    --aside-color: var(green);
+    --section-color: var(blue);
+    --footer-color: var(crimson);
+}
+
+/* main styling */
