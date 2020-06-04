@@ -47,5 +47,19 @@ body {
     padding: 200px;
     font-weight: bold;
 }
+.footer {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    background-color: var(--footer-color);
+    width: 100%;
+    height: 10vh;
+    
+}
+.footer-div {
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+    
+}
 
 
