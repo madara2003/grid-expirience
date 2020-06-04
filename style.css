@@ -41,5 +41,11 @@ body {
     background-color: var(--section-color);
     padding: 200px;
 }
+.grid-2 {
+    color: maroon;
+    background-color: var(--aside-color);
+    padding: 200px;
+    font-weight: bold;
+}
 
 
